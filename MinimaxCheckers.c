@@ -124,7 +124,7 @@ void main(){
 
 /*
 
-algorithm for minimax with alpha beta pruning
+The Algorithm for minimax with alpha beta pruning
 
 coord keeps info about the move made to print it
  alphabeta(board,depth,alpha,beta,maxplayer,move)
